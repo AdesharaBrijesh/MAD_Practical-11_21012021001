@@ -1,4 +1,4 @@
-# MAD_Practical-11_21012011103
+# MAD_Practical-11_21012021001
 
 AIM: Consider Android Application created in Practical-10 and add Sqlite feature such that it is storing data of persons which is received in JSON Format. There should be two buttons: after pressing first button then data of persons loads from sqlite database. After pressing second button, it receives data from network database in JSON format and loads data in ListView or RecyclerView.
 
@@ -21,12 +21,8 @@ Add two buttons with vector icons.
 Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 OUTPUT:
-![Screenshot_2023-11-01-22-38-58-37_4ac64bf0b5ad4147fb2a50c461aaeab6](https://github.com/Rohan3429/MAD_Practical-11_21012011103/assets/98172369/fd4d74e3-3afa-4f3a-921d-9d6505d152cf)
-
-
-![Screenshot_2023-11-01-22-39-20-85_4ac64bf0b5ad4147fb2a50c461aaeab6](https://github.com/Rohan3429/MAD_Practical-11_21012011103/assets/98172369/db8a6e7e-775b-4f5f-b535-6f00e38f401a)
-
-
-![Screenshot_2023-11-01-22-39-11-09_4ac64bf0b5ad4147fb2a50c461aaeab6](https://github.com/Rohan3429/MAD_Practical-11_21012011103/assets/98172369/218874e5-a13c-4111-b257-1f2e1fad1f74)
-
-
+![WhatsApp Image 2023-11-02 at 3 36 25 PM](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/12e45bd2-4741-4a06-a101-ce30890e049e)
+![WhatsApp Image 2023-11-02 at 3 36 26 PM](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/fb605771-cb33-415c-aabb-9fc3d10f7e54)
+![WhatsApp Image 2023-11-02 at 3 36 26 PM (1)](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/0312a5f5-a3cf-46c8-912a-a112673480af)
+![WhatsApp Image 2023-11-02 at 3 36 26 PM (2)](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/54100971-c271-44d9-9bed-afaa710c908a)
+![WhatsApp Image 2023-11-02 at 4 56 35 PM](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/40540657-06fd-4f38-90a9-d02bd8e68847)
