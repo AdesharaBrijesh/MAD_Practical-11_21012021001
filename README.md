@@ -21,6 +21,7 @@ Add two buttons with vector icons.
 Call appropriate method of mainactivity after pressing buttons of toolbar.
 
 OUTPUT:
+
 ![WhatsApp Image 2023-11-02 at 3 36 25 PM](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/12e45bd2-4741-4a06-a101-ce30890e049e)
 ![WhatsApp Image 2023-11-02 at 3 36 26 PM](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/fb605771-cb33-415c-aabb-9fc3d10f7e54)
 ![WhatsApp Image 2023-11-02 at 3 36 26 PM (1)](https://github.com/AdesharaBrijesh/MAD_Practical-11_21012021001/assets/98079442/0312a5f5-a3cf-46c8-912a-a112673480af)
